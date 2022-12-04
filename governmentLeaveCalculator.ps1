@@ -18,8 +18,7 @@ function leaveCalc {
     #Need to enter in amount of pay periods, possible array 
     #End date is needed for calculation or auto generate for specific intervals
     # display for today's date
-
-    
+ 
 }
 
 
