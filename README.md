@@ -34,6 +34,6 @@ The purpose of this project is to create a script that will automate calculating
 ## Version History
 
 * 
-<img width="881" alt="Screenshot 2022-12-04 at 7 40 07 PM" src="https://user-images.githubusercontent.com/92267723/205526283-f427eab6-7a3c-4efc-a5ab-37d5726b7bda.png">
+<img width="881" alt="leaveCalc" src="https://user-images.githubusercontent.com/92267723/205527325-883d5e61-e203-4b40-8634-2e9169dcccd4.png">
 
 
