@@ -19,9 +19,9 @@ The purpose of this project is to create a script that will automate calculating
 
 ### Executing program
 
-Download and run through PowerShell extension in VSCode or PowerShell on Windows PC. 
+* Download and run through PowerShell extension in VSCode or PowerShell on Windows PC. 
 
-Run the program by typing function name.
+* Run the program by typing function name.
 
 
 
