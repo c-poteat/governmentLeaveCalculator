@@ -16,7 +16,6 @@ The purpose of this project is to create a script that will automate calculating
 ### Installing
 
 * How/where to download your program
-* 
 
 ### Executing program
 
